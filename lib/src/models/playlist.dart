@@ -59,7 +59,7 @@ class Playlist extends Object implements PlaylistSimple {
   TracksLink tracksLink;
 
   /// Information about the tracks of the playlist.
-  List<Track> tracks;
+  //List<Track> tracks;
 
   /// The object type: "playlist"
   String type;
